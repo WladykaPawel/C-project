@@ -9,4 +9,6 @@ The player's goal is to score as many points as possible, which are written on a
 ![image](https://user-images.githubusercontent.com/101670830/171708681-735efeaf-a225-4dd1-8d26-058ffbf649af.png)
 
 The game was based on the popular anime series "Naruto". At the beginning, in the main menu, you could start the appropriate version of the difficulty (easy, normal and hard) by selecting the appropriate character.
-![image](https://user-images.githubusercontent.com/101670830/171707149-79dfb831-abed-4095-b880-e7d73c3bb33d.png)
+
+![image](https://user-images.githubusercontent.com/101670830/171709812-cf39f939-da04-44fa-a6d9-a7c0a7133e0c.png)
+
