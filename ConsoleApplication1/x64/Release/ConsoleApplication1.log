@@ -1,0 +1,23 @@
+﻿  ConsoleApplication1.cpp
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\ConsoleApplication1.cpp(26,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\ConsoleApplication1.cpp(46,40): warning C4305: "=": obcięcie z "double" do "float"
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\ConsoleApplication1.cpp(51,40): warning C4305: "=": obcięcie z "double" do "float"
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\ConsoleApplication1.cpp(56,40): warning C4305: "=": obcięcie z "double" do "float"
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\ConsoleApplication1.cpp(61,40): warning C4305: "=": obcięcie z "double" do "float"
+  End_game.cpp
+  File.cpp
+  game.cpp
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\game.cpp(10,28): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\game.cpp(11,28): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\game.cpp(89,18): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\game.cpp(101,40): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\game.cpp(207,28): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\game.cpp(214,26): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Tablica_wynikow.cpp
+  Wybor_Postaci.cpp
+  wynik.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 214 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  ConsoleApplication1.vcxproj -> C:\Paweł\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\x64\Release\ConsoleApplication1.exe

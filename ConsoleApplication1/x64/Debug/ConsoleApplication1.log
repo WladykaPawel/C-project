@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+F:\Studia wszystko\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\ConsoleApplication1.cpp(1,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Audio.hpp': No such file or directory
+  End_game.cpp
+F:\Studia wszystko\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\game.h(1,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  File.cpp
+F:\Studia wszystko\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\File.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  game.cpp
+F:\Studia wszystko\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\game.h(1,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Tablica_wynikow.cpp
+  Wybor_Postaci.cpp
+F:\Studia wszystko\STUDIA\3 SEMESTR\Programowanie w C++ (E)\Projekt\PROJEKT CPP na klasach\ConsoleApplication1\Wybor_Postaci.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  wynik.cpp
+  Generowanie kodu...
